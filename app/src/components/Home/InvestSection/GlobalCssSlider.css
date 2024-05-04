@@ -1,0 +1,29 @@
+.MuiSlider-markLabelActive {
+    color: #7979AC !important;
+    font-size: 15px !important;
+    font-weight: 500;
+}
+
+.MuiSlider-markLabel {
+    color: #7979AC !important;
+    font-size: 15px !important;
+    font-weight: 500;
+}
+
+.MuiSlider-rail {
+    background-color: #15152B !important;
+    height: 13px !important;
+}
+
+.MuiSlider-track {
+    background: linear-gradient(275.37deg, #3ED3B5 8.24%, #5F78FF 90.82%) !important;
+    height: 13px !important;
+}
+
+.MuiSlider-thumb {
+    background-color: #ECFDFF !important;
+}
+
+.MuiSlider-thumb:hover {
+    box-shadow: none !important;
+}
